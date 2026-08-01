@@ -9,7 +9,7 @@ public class FactorialProgram {
 		for(int i=factNumber;i>=1;i--) {
 			factValue=factValue*i;
 		}
-		System.out.println("Factorial value is "+factValue);
+		System.out.println("Factorial value is "+factorialValue);
 
 	}
 
