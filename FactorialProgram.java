@@ -6,10 +6,10 @@ public class FactorialProgram {
 		// Factorial Program--Changes
 		int factorialNumber=5;
 		long factorialValue=1;
-		for(int i=factNumber;i>=1;i--) {
-			factValue=factValue*i;
+		for(int i=factorialNumber;i>=1;i--) {
+			factorialValue=factValue*i;
 		}
-		System.out.println("Factorial value is "+factValue);
+		System.out.println("Factorial value is "+factorialValue);
 
 	}
 
